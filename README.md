@@ -32,6 +32,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [Mobile CI/CD in 2k19](https://speakerdeck.com/vlivanov/cd-in-2k19?slide=123)
 * [Building a DevOps pipeline for your App: Choose a CI/CD server](https://proandroiddev.com/building-a-devops-pipeline-for-your-app-choose-a-ci-cd-server-fd99e886ab76)
 * [Mobile DevOps](https://www.bitrise.io/mobile-devops)
+* [Dude, Where's My Build? Android CI/CD at Uber](https://www.youtube.com/watch?list=PLYioXtkIMlS9CMDDq3TcmxXsC455x6_XL&v=oC4476fR4rI)
 
 ## Usage
 
