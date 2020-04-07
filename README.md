@@ -30,6 +30,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [Android in Avito](https://avito-tech.github.io/avito-android/)
 * [Mobile: DevOps or Not DevOps](https://speakerdeck.com/vlivanov/mobile-devops-or-not-devops)
 * [Mobile CI/CD in 2k19](https://speakerdeck.com/vlivanov/cd-in-2k19?slide=123)
+* [Building a DevOps pipeline for your App: Choose a CI/CD server](https://proandroiddev.com/building-a-devops-pipeline-for-your-app-choose-a-ci-cd-server-fd99e886ab76)
 
 ## Usage
 
