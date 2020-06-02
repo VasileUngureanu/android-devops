@@ -34,6 +34,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [Mobile DevOps](https://www.bitrise.io/mobile-devops)
 * [Dude, Where's My Build? Android CI/CD at Uber](https://www.youtube.com/watch?list=PLYioXtkIMlS9CMDDq3TcmxXsC455x6_XL&v=oC4476fR4rI)
 * [Building a DevOps pipeline for your App: Choose a CI/CD server](https://www.droidcon.com/news-detail?content-id=/repository/collaboration/Groups/spaces/droidcon_hq/Documents/public/news/android-news/Building%20a%20DevOps%20pipeline%20for%20your%20App!%20Choose%20a%20CI%20or%20CD%20server)
+* [Release Train at "Беру"](https://www.youtube.com/watch?v=8iwkFkkV9es&t=3118s)
 
 ## Usage
 
