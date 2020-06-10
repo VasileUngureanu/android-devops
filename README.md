@@ -28,7 +28,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [Fighting Regressions with Benchmarks in CI](https://medium.com/androiddevelopers/fighting-regressions-with-benchmarks-in-ci-6ea9a14b5c71)
 * [Rapid release at massive scale](https://engineering.fb.com/web/rapid-release-at-massive-scale/?utm_campaign=Clean%2BCode&utm_medium=email&utm_source=Clean_Code_4)
 * [Android in Avito](https://avito-tech.github.io/avito-android/)
-* [Mobile: DevOps or Not DevOps](https://speakerdeck.com/vlivanov/mobile-devops-or-not-devops)
+* [Мобильная разработка: DevOps или не DevOps](https://www.youtube.com/watch?v=r7bb1jv4I1A)
 * [Mobile CI/CD in 2k19](https://speakerdeck.com/vlivanov/cd-in-2k19?slide=123)
 * [Building a DevOps pipeline for your App: Choose a CI/CD server](https://proandroiddev.com/building-a-devops-pipeline-for-your-app-choose-a-ci-cd-server-fd99e886ab76)
 * [Mobile DevOps](https://www.bitrise.io/mobile-devops)
